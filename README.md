@@ -1,4 +1,2 @@
-A Data mangement project which uses all the concepts:
-Conceptual and relational models
-generating datasets using DDL and DML commands
-connecting the dataset to python and MongoDB
+The initiative aims at assisting students in their plans to pursue their education from international institutions. Upon signing up on the website and providing personal details, users will be guided through tips, document requirements, and the entire process essential to complete this transition smoothly. Based on the processing stages of the Visa the Users are divided as Initial User, Intermediate User and Neophytes.
+The concepts such as EER, UML, Relational models, DDL, DML, SQL, Python and NoSQL are utilized to complete this task.
